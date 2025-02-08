@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/kimpra2989/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
+## Array
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/kimpra2989/leet-code/tree/master/0198-house-robber) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/kimpra2989/leet-code/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
