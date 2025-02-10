@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kimpra2989/leet-code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kimpra2989/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/kimpra2989/leet-code/tree/master/2470-removing-stars-from-a-string) |
+| [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/kimpra2989/leet-code/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 ## Sorting
 |  |
 | ------- |
