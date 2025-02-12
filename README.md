@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kimpra2989/leet-code/tree/master/0011-container-with-most-water) |
+| [0063-unique-paths-ii](https://github.com/kimpra2989/leet-code/tree/master/0063-unique-paths-ii) |
 | [0136-single-number](https://github.com/kimpra2989/leet-code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kimpra2989/leet-code/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/kimpra2989/leet-code/tree/master/0198-house-robber) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/kimpra2989/leet-code/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/kimpra2989/leet-code/tree/master/0198-house-robber) |
 | [0740-delete-and-earn](https://github.com/kimpra2989/leet-code/tree/master/0740-delete-and-earn) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kimpra2989/leet-code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kimpra2989/leet-code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kimpra2989/leet-code/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/kimpra2989/leet-code/tree/master/0260-single-number-iii) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/kimpra2989/leet-code/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
