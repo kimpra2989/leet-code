@@ -18,6 +18,5 @@ var uniquePathsWithObstacles = function (obstacleGrid) {
         }
         dp.push(row)
     }
-    console.log(dp)
     return dp.at(-1).at(-1)
 };
