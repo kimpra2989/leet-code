@@ -18,6 +18,5 @@ var uniquePaths = function (m, n) {
             map[r][c] = (map[r][c - 1] ?? 0) + (map[r - 1]?.[c] ?? 0)
         }
     }
-    console.log(map)
     return map.at(-1).at(-1)
 };
