@@ -149,11 +149,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/kimpra2989/leet-code/tree/master/0871-keys-and-rooms) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kimpra2989/leet-code/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kimpra2989/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/kimpra2989/leet-code/tree/master/0871-keys-and-rooms) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kimpra2989/leet-code/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kimpra2989/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/kimpra2989/leet-code/tree/master/0969-number-of-recent-calls) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/kimpra2989/leet-code/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
