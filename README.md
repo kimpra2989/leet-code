@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kimpra2989/leet-code/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/kimpra2989/leet-code/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/kimpra2989/leet-code/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/kimpra2989/leet-code/tree/master/0198-house-robber) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kimpra2989/leet-code/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/kimpra2989/leet-code/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/kimpra2989/leet-code/tree/master/0172-factorial-trailing-zeroes) |
 | [1236-n-th-tribonacci-number](https://github.com/kimpra2989/leet-code/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kimpra2989/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/kimpra2989/leet-code/tree/master/1236-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kimpra2989/leet-code/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
