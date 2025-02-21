@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kimpra2989/leet-code/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/kimpra2989/leet-code/tree/master/0392-is-subsequence) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kimpra2989/leet-code/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kimpra2989/leet-code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kimpra2989/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/kimpra2989/leet-code/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/kimpra2989/leet-code/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/kimpra2989/leet-code/tree/master/0392-is-subsequence) |
 | [0740-delete-and-earn](https://github.com/kimpra2989/leet-code/tree/master/0740-delete-and-earn) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kimpra2989/leet-code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kimpra2989/leet-code/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/kimpra2989/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/kimpra2989/leet-code/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/kimpra2989/leet-code/tree/master/0392-is-subsequence) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kimpra2989/leet-code/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
