@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kimpra2989/leet-code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kimpra2989/leet-code/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/kimpra2989/leet-code/tree/master/0260-single-number-iii) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/kimpra2989/leet-code/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Matrix
 |  |
 | ------- |
