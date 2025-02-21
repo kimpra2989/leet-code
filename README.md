@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kimpra2989/leet-code/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/kimpra2989/leet-code/tree/master/0392-is-subsequence) |
 | [0740-delete-and-earn](https://github.com/kimpra2989/leet-code/tree/master/0740-delete-and-earn) |
+| [1236-n-th-tribonacci-number](https://github.com/kimpra2989/leet-code/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kimpra2989/leet-code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kimpra2989/leet-code/tree/master/0002-add-two-numbers) |
 | [0172-factorial-trailing-zeroes](https://github.com/kimpra2989/leet-code/tree/master/0172-factorial-trailing-zeroes) |
+| [1236-n-th-tribonacci-number](https://github.com/kimpra2989/leet-code/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kimpra2989/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
 ## Design
 |  |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kimpra2989/leet-code/tree/master/0547-number-of-provinces) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/kimpra2989/leet-code/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
