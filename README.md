@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/kimpra2989/leet-code/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/kimpra2989/leet-code/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/kimpra2989/leet-code/tree/master/0740-delete-and-earn) |
+| [1036-rotting-oranges](https://github.com/kimpra2989/leet-code/tree/master/1036-rotting-oranges) |
 | [1319-unique-number-of-occurrences](https://github.com/kimpra2989/leet-code/tree/master/1319-unique-number-of-occurrences) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kimpra2989/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1503-reducing-dishes](https://github.com/kimpra2989/leet-code/tree/master/1503-reducing-dishes) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/kimpra2989/leet-code/tree/master/0063-unique-paths-ii) |
+| [1036-rotting-oranges](https://github.com/kimpra2989/leet-code/tree/master/1036-rotting-oranges) |
 | [2428-equal-row-and-column-pairs](https://github.com/kimpra2989/leet-code/tree/master/2428-equal-row-and-column-pairs) |
 ## Math
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/kimpra2989/leet-code/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/kimpra2989/leet-code/tree/master/0871-keys-and-rooms) |
+| [1036-rotting-oranges](https://github.com/kimpra2989/leet-code/tree/master/1036-rotting-oranges) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kimpra2989/leet-code/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kimpra2989/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
