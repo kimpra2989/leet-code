@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kimpra2989/leet-code/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/kimpra2989/leet-code/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/kimpra2989/leet-code/tree/master/0172-factorial-trailing-zeroes) |
+| [0326-power-of-three](https://github.com/kimpra2989/leet-code/tree/master/0326-power-of-three) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kimpra2989/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/kimpra2989/leet-code/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kimpra2989/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kimpra2989/leet-code/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/kimpra2989/leet-code/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/kimpra2989/leet-code/tree/master/0326-power-of-three) |
 ## Tree
 |  |
 | ------- |
