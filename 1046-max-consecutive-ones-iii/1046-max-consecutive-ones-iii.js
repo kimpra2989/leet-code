@@ -22,7 +22,6 @@ var longestOnes = function(nums, k) {
         end = start
       }
     }
-    console.log(start, end, result)
   }
 
   return result
