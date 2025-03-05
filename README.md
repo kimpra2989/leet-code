@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/kimpra2989/leet-code/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/kimpra2989/leet-code/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/kimpra2989/leet-code/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/kimpra2989/leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/kimpra2989/leet-code/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kimpra2989/leet-code/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kimpra2989/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kimpra2989/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/kimpra2989/leet-code/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/kimpra2989/leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kimpra2989/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1833-find-the-highest-altitude](https://github.com/kimpra2989/leet-code/tree/master/1833-find-the-highest-altitude) |
 | [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/kimpra2989/leet-code/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/kimpra2989/leet-code/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/kimpra2989/leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kimpra2989/leet-code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kimpra2989/leet-code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Bit Manipulation
@@ -294,4 +297,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/kimpra2989/leet-code/tree/master/0783-search-in-a-binary-search-tree) |
+| [1046-max-consecutive-ones-iii](https://github.com/kimpra2989/leet-code/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
