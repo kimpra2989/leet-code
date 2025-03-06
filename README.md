@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/kimpra2989/leet-code/tree/master/2107-find-unique-binary-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/kimpra2989/leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kimpra2989/leet-code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/kimpra2989/leet-code/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/kimpra2989/leet-code/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kimpra2989/leet-code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2846-robot-collisions](https://github.com/kimpra2989/leet-code/tree/master/2846-robot-collisions) |
+| [3227-find-missing-and-repeated-values](https://github.com/kimpra2989/leet-code/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/kimpra2989/leet-code/tree/master/3429-special-array-i) |
 ## Dynamic Programming
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/kimpra2989/leet-code/tree/master/0063-unique-paths-ii) |
 | [1036-rotting-oranges](https://github.com/kimpra2989/leet-code/tree/master/1036-rotting-oranges) |
 | [2428-equal-row-and-column-pairs](https://github.com/kimpra2989/leet-code/tree/master/2428-equal-row-and-column-pairs) |
+| [3227-find-missing-and-repeated-values](https://github.com/kimpra2989/leet-code/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/kimpra2989/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kimpra2989/leet-code/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kimpra2989/leet-code/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/kimpra2989/leet-code/tree/master/3227-find-missing-and-repeated-values) |
 ## Design
 |  |
 | ------- |
