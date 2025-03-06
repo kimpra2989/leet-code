@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/kimpra2989/leet-code/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/kimpra2989/leet-code/tree/master/0937-online-stock-span) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kimpra2989/leet-code/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/kimpra2989/leet-code/tree/master/2470-removing-stars-from-a-string) |
 | [2846-robot-collisions](https://github.com/kimpra2989/leet-code/tree/master/2846-robot-collisions) |
@@ -211,12 +212,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/kimpra2989/leet-code/tree/master/0208-implement-trie-prefix-tree) |
+| [0937-online-stock-span](https://github.com/kimpra2989/leet-code/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/kimpra2989/leet-code/tree/master/0969-number-of-recent-calls) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kimpra2989/leet-code/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kimpra2989/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/kimpra2989/leet-code/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/kimpra2989/leet-code/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kimpra2989/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
 ## Linked List
@@ -320,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/kimpra2989/leet-code/tree/master/1397-search-suggestions-system) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/kimpra2989/leet-code/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
