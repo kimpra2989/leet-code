@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/kimpra2989/leet-code/tree/master/0392-is-subsequence) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kimpra2989/leet-code/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kimpra2989/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1397-search-suggestions-system](https://github.com/kimpra2989/leet-code/tree/master/1397-search-suggestions-system) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kimpra2989/leet-code/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kimpra2989/leet-code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kimpra2989/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/kimpra2989/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kimpra2989/leet-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1397-search-suggestions-system](https://github.com/kimpra2989/leet-code/tree/master/1397-search-suggestions-system) |
 | [1503-reducing-dishes](https://github.com/kimpra2989/leet-code/tree/master/1503-reducing-dishes) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kimpra2989/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kimpra2989/leet-code/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/kimpra2989/leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/kimpra2989/leet-code/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kimpra2989/leet-code/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1397-search-suggestions-system](https://github.com/kimpra2989/leet-code/tree/master/1397-search-suggestions-system) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kimpra2989/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1503-reducing-dishes](https://github.com/kimpra2989/leet-code/tree/master/1503-reducing-dishes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kimpra2989/leet-code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -307,8 +310,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/kimpra2989/leet-code/tree/master/0783-search-in-a-binary-search-tree) |
 | [1046-max-consecutive-ones-iii](https://github.com/kimpra2989/leet-code/tree/master/1046-max-consecutive-ones-iii) |
+| [1397-search-suggestions-system](https://github.com/kimpra2989/leet-code/tree/master/1397-search-suggestions-system) |
 ## Trie
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/kimpra2989/leet-code/tree/master/0208-implement-trie-prefix-tree) |
+| [1397-search-suggestions-system](https://github.com/kimpra2989/leet-code/tree/master/1397-search-suggestions-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/kimpra2989/leet-code/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->
