@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kimpra2989/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/kimpra2989/leet-code/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/kimpra2989/leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [0740-delete-and-earn](https://github.com/kimpra2989/leet-code/tree/master/0740-delete-and-earn) |
 | [1319-unique-number-of-occurrences](https://github.com/kimpra2989/leet-code/tree/master/1319-unique-number-of-occurrences) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kimpra2989/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/kimpra2989/leet-code/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/kimpra2989/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/kimpra2989/leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kimpra2989/leet-code/tree/master/0345-reverse-vowels-of-a-string) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kimpra2989/leet-code/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kimpra2989/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/kimpra2989/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kimpra2989/leet-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kimpra2989/leet-code/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/kimpra2989/leet-code/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/kimpra2989/leet-code/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/kimpra2989/leet-code/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/kimpra2989/leet-code/tree/master/0136-single-number) |
