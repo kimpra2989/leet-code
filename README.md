@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/kimpra2989/leet-code/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kimpra2989/leet-code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/kimpra2989/leet-code/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/kimpra2989/leet-code/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2107-find-unique-binary-string](https://github.com/kimpra2989/leet-code/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kimpra2989/leet-code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2245-destroying-asteroids](https://github.com/kimpra2989/leet-code/tree/master/2245-destroying-asteroids) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/kimpra2989/leet-code/tree/master/0063-unique-paths-ii) |
 | [1036-rotting-oranges](https://github.com/kimpra2989/leet-code/tree/master/1036-rotting-oranges) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/kimpra2989/leet-code/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/kimpra2989/leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/kimpra2989/leet-code/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/kimpra2989/leet-code/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kimpra2989/leet-code/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kimpra2989/leet-code/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/kimpra2989/leet-code/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
 | ------- |
