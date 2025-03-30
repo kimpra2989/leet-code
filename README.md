@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kimpra2989/leet-code/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/kimpra2989/leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [0740-delete-and-earn](https://github.com/kimpra2989/leet-code/tree/master/0740-delete-and-earn) |
+| [0768-partition-labels](https://github.com/kimpra2989/leet-code/tree/master/0768-partition-labels) |
 | [1319-unique-number-of-occurrences](https://github.com/kimpra2989/leet-code/tree/master/1319-unique-number-of-occurrences) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kimpra2989/leet-code/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kimpra2989/leet-code/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/kimpra2989/leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kimpra2989/leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kimpra2989/leet-code/tree/master/0392-is-subsequence) |
+| [0768-partition-labels](https://github.com/kimpra2989/leet-code/tree/master/0768-partition-labels) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kimpra2989/leet-code/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kimpra2989/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1397-search-suggestions-system](https://github.com/kimpra2989/leet-code/tree/master/1397-search-suggestions-system) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kimpra2989/leet-code/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kimpra2989/leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kimpra2989/leet-code/tree/master/0392-is-subsequence) |
+| [0768-partition-labels](https://github.com/kimpra2989/leet-code/tree/master/0768-partition-labels) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kimpra2989/leet-code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/kimpra2989/leet-code/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kimpra2989/leet-code/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/kimpra2989/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kimpra2989/leet-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/kimpra2989/leet-code/tree/master/0605-can-place-flowers) |
+| [0768-partition-labels](https://github.com/kimpra2989/leet-code/tree/master/0768-partition-labels) |
 | [1503-reducing-dishes](https://github.com/kimpra2989/leet-code/tree/master/1503-reducing-dishes) |
 | [2245-destroying-asteroids](https://github.com/kimpra2989/leet-code/tree/master/2245-destroying-asteroids) |
 | [2636-maximum-subsequence-score](https://github.com/kimpra2989/leet-code/tree/master/2636-maximum-subsequence-score) |
