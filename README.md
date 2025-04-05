@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/kimpra2989/leet-code/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kimpra2989/leet-code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/kimpra2989/leet-code/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/kimpra2989/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kimpra2989/leet-code/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2107-find-unique-binary-string](https://github.com/kimpra2989/leet-code/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kimpra2989/leet-code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/kimpra2989/leet-code/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/kimpra2989/leet-code/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/kimpra2989/leet-code/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/kimpra2989/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Matrix
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/kimpra2989/leet-code/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kimpra2989/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kimpra2989/leet-code/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/kimpra2989/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kimpra2989/leet-code/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kimpra2989/leet-code/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/kimpra2989/leet-code/tree/master/3227-find-missing-and-repeated-values) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kimpra2989/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/kimpra2989/leet-code/tree/master/0216-combination-sum-iii) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kimpra2989/leet-code/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/kimpra2989/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/kimpra2989/leet-code/tree/master/2107-find-unique-binary-string) |
 ## Queue
 |  |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kimpra2989/leet-code/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/kimpra2989/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -410,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kimpra2989/leet-code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/kimpra2989/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
