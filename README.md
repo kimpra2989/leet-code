@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/kimpra2989/leet-code/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/kimpra2989/leet-code/tree/master/3429-special-array-i) |
 | [3483-alternating-groups-ii](https://github.com/kimpra2989/leet-code/tree/master/3483-alternating-groups-ii) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kimpra2989/leet-code/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kimpra2989/leet-code/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
 |  |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/kimpra2989/leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kimpra2989/leet-code/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/kimpra2989/leet-code/tree/master/3227-find-missing-and-repeated-values) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kimpra2989/leet-code/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Math
 |  |
 | ------- |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/kimpra2989/leet-code/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kimpra2989/leet-code/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kimpra2989/leet-code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kimpra2989/leet-code/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Union Find
 |  |
 | ------- |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/kimpra2989/leet-code/tree/master/1397-search-suggestions-system) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kimpra2989/leet-code/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2636-maximum-subsequence-score](https://github.com/kimpra2989/leet-code/tree/master/2636-maximum-subsequence-score) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kimpra2989/leet-code/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -423,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kimpra2989/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kimpra2989/leet-code/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
