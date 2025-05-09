@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kimpra2989/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0077-combinations](https://github.com/kimpra2989/leet-code/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/kimpra2989/leet-code/tree/master/0216-combination-sum-iii) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kimpra2989/leet-code/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kimpra2989/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
