@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kimpra2989/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/kimpra2989/leet-code/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/kimpra2989/leet-code/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/kimpra2989/leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [0740-delete-and-earn](https://github.com/kimpra2989/leet-code/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/kimpra2989/leet-code/tree/master/0768-partition-labels) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/kimpra2989/leet-code/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/kimpra2989/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kimpra2989/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/kimpra2989/leet-code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/kimpra2989/leet-code/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kimpra2989/leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kimpra2989/leet-code/tree/master/0392-is-subsequence) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kimpra2989/leet-code/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/kimpra2989/leet-code/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/kimpra2989/leet-code/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/kimpra2989/leet-code/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/kimpra2989/leet-code/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/kimpra2989/leet-code/tree/master/0368-largest-divisible-subset) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kimpra2989/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
