@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kimpra2989/leet-code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kimpra2989/leet-code/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/kimpra2989/leet-code/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kimpra2989/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/kimpra2989/leet-code/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kimpra2989/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/kimpra2989/leet-code/tree/master/0216-combination-sum-iii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kimpra2989/leet-code/tree/master/0011-container-with-most-water) |
 | [0086-partition-list](https://github.com/kimpra2989/leet-code/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/kimpra2989/leet-code/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kimpra2989/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kimpra2989/leet-code/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kimpra2989/leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kimpra2989/leet-code/tree/master/0392-is-subsequence) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/kimpra2989/leet-code/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kimpra2989/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/kimpra2989/leet-code/tree/master/0374-guess-number-higher-or-lower) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kimpra2989/leet-code/tree/master/0783-search-in-a-binary-search-tree) |
 | [1046-max-consecutive-ones-iii](https://github.com/kimpra2989/leet-code/tree/master/1046-max-consecutive-ones-iii) |
