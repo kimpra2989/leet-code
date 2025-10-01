@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/kimpra2989/leet-code/tree/master/0735-asteroid-collision) |
+| [1642-water-bottles](https://github.com/kimpra2989/leet-code/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kimpra2989/leet-code/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/kimpra2989/leet-code/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kimpra2989/leet-code/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/kimpra2989/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/kimpra2989/leet-code/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kimpra2989/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
+| [1642-water-bottles](https://github.com/kimpra2989/leet-code/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kimpra2989/leet-code/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kimpra2989/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kimpra2989/leet-code/tree/master/2324-find-triangular-sum-of-an-array) |
