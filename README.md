@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/kimpra2989/leet-code/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/kimpra2989/leet-code/tree/master/2551-apply-operations-to-an-array) |
 | [2846-robot-collisions](https://github.com/kimpra2989/leet-code/tree/master/2846-robot-collisions) |
+| [3336-water-bottles-ii](https://github.com/kimpra2989/leet-code/tree/master/3336-water-bottles-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/kimpra2989/leet-code/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kimpra2989/leet-code/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/kimpra2989/leet-code/tree/master/3227-find-missing-and-repeated-values) |
+| [3336-water-bottles-ii](https://github.com/kimpra2989/leet-code/tree/master/3336-water-bottles-ii) |
 ## Design
 |  |
 | ------- |
