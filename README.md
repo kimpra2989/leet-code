@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/kimpra2989/leet-code/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/kimpra2989/leet-code/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/kimpra2989/leet-code/tree/master/0747-min-cost-climbing-stairs) |
+| [0794-swim-in-rising-water](https://github.com/kimpra2989/leet-code/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/kimpra2989/leet-code/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/kimpra2989/leet-code/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/kimpra2989/leet-code/tree/master/1046-max-consecutive-ones-iii) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/kimpra2989/leet-code/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/kimpra2989/leet-code/tree/master/0074-search-a-2d-matrix) |
+| [0794-swim-in-rising-water](https://github.com/kimpra2989/leet-code/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/kimpra2989/leet-code/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/kimpra2989/leet-code/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kimpra2989/leet-code/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kimpra2989/leet-code/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kimpra2989/leet-code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/kimpra2989/leet-code/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/kimpra2989/leet-code/tree/master/0794-swim-in-rising-water) |
 | [0871-keys-and-rooms](https://github.com/kimpra2989/leet-code/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/kimpra2989/leet-code/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kimpra2989/leet-code/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kimpra2989/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kimpra2989/leet-code/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/kimpra2989/leet-code/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/kimpra2989/leet-code/tree/master/0794-swim-in-rising-water) |
 | [0871-keys-and-rooms](https://github.com/kimpra2989/leet-code/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/kimpra2989/leet-code/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/kimpra2989/leet-code/tree/master/1036-rotting-oranges) |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kimpra2989/leet-code/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/kimpra2989/leet-code/tree/master/0794-swim-in-rising-water) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kimpra2989/leet-code/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Memoization
 |  |
@@ -427,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/kimpra2989/leet-code/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/kimpra2989/leet-code/tree/master/0611-valid-triangle-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kimpra2989/leet-code/tree/master/0783-search-in-a-binary-search-tree) |
+| [0794-swim-in-rising-water](https://github.com/kimpra2989/leet-code/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/kimpra2989/leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/kimpra2989/leet-code/tree/master/1397-search-suggestions-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kimpra2989/leet-code/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -440,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kimpra2989/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0794-swim-in-rising-water](https://github.com/kimpra2989/leet-code/tree/master/0794-swim-in-rising-water) |
 | [1397-search-suggestions-system](https://github.com/kimpra2989/leet-code/tree/master/1397-search-suggestions-system) |
 | [2429-design-a-food-rating-system](https://github.com/kimpra2989/leet-code/tree/master/2429-design-a-food-rating-system) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kimpra2989/leet-code/tree/master/2588-maximum-number-of-points-from-grid-queries) |
