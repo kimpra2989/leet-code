@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kimpra2989/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/kimpra2989/leet-code/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/kimpra2989/leet-code/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/kimpra2989/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/kimpra2989/leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kimpra2989/leet-code/tree/master/0345-reverse-vowels-of-a-string) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/kimpra2989/leet-code/tree/master/0071-simplify-path) |
 | [0735-asteroid-collision](https://github.com/kimpra2989/leet-code/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/kimpra2989/leet-code/tree/master/0937-online-stock-span) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kimpra2989/leet-code/tree/master/2021-remove-all-occurrences-of-a-substring) |
