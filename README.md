@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kimpra2989/leet-code/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/kimpra2989/leet-code/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/kimpra2989/leet-code/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/kimpra2989/leet-code/tree/master/0242-valid-anagram) |
 | [0740-delete-and-earn](https://github.com/kimpra2989/leet-code/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/kimpra2989/leet-code/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kimpra2989/leet-code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/kimpra2989/leet-code/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/kimpra2989/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/kimpra2989/leet-code/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/kimpra2989/leet-code/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kimpra2989/leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kimpra2989/leet-code/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/kimpra2989/leet-code/tree/master/0768-partition-labels) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/kimpra2989/leet-code/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kimpra2989/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/kimpra2989/leet-code/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/kimpra2989/leet-code/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/kimpra2989/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kimpra2989/leet-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
