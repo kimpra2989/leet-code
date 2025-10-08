@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kimpra2989/leet-code/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/kimpra2989/leet-code/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/kimpra2989/leet-code/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/kimpra2989/leet-code/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/kimpra2989/leet-code/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/kimpra2989/leet-code/tree/master/0063-unique-paths-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kimpra2989/leet-code/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kimpra2989/leet-code/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kimpra2989/leet-code/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/kimpra2989/leet-code/tree/master/0063-unique-paths-ii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kimpra2989/leet-code/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/kimpra2989/leet-code/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kimpra2989/leet-code/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/kimpra2989/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kimpra2989/leet-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
