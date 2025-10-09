@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/kimpra2989/leet-code/tree/master/3483-alternating-groups-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kimpra2989/leet-code/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kimpra2989/leet-code/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/kimpra2989/leet-code/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/kimpra2989/leet-code/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/kimpra2989/leet-code/tree/master/2551-apply-operations-to-an-array) |
 | [2846-robot-collisions](https://github.com/kimpra2989/leet-code/tree/master/2846-robot-collisions) |
 | [3336-water-bottles-ii](https://github.com/kimpra2989/leet-code/tree/master/3336-water-bottles-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/kimpra2989/leet-code/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/kimpra2989/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1833-find-the-highest-altitude](https://github.com/kimpra2989/leet-code/tree/master/1833-find-the-highest-altitude) |
 | [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/kimpra2989/leet-code/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/kimpra2989/leet-code/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Sliding Window
 |  |
 | ------- |
