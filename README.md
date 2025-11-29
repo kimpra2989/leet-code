@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/kimpra2989/leet-code/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/kimpra2989/leet-code/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/kimpra2989/leet-code/tree/master/1153-product-sales-analysis-i) |
+| [1193-monthly-transactions-i](https://github.com/kimpra2989/leet-code/tree/master/1193-monthly-transactions-i) |
 | [1258-article-views-i](https://github.com/kimpra2989/leet-code/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/kimpra2989/leet-code/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/kimpra2989/leet-code/tree/master/1827-invalid-tweets) |
