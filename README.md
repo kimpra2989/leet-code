@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kimpra2989/leet-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/kimpra2989/leet-code/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/kimpra2989/leet-code/tree/master/0611-valid-triangle-number) |
+| [0636-exclusive-time-of-functions](https://github.com/kimpra2989/leet-code/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/kimpra2989/leet-code/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/kimpra2989/leet-code/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/kimpra2989/leet-code/tree/master/0735-asteroid-collision) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/kimpra2989/leet-code/tree/master/0071-simplify-path) |
+| [0636-exclusive-time-of-functions](https://github.com/kimpra2989/leet-code/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/kimpra2989/leet-code/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/kimpra2989/leet-code/tree/master/0937-online-stock-span) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kimpra2989/leet-code/tree/master/2021-remove-all-occurrences-of-a-substring) |
