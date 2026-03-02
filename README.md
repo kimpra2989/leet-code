@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-design-underground-system](https://github.com/kimpra2989/leet-code/tree/master/1512-design-underground-system) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kimpra2989/leet-code/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kimpra2989/leet-code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kimpra2989/leet-code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kimpra2989/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/kimpra2989/leet-code/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kimpra2989/leet-code/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/kimpra2989/leet-code/tree/master/1503-reducing-dishes) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kimpra2989/leet-code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/kimpra2989/leet-code/tree/master/1612-avoid-flood-in-the-city) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kimpra2989/leet-code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2245-destroying-asteroids](https://github.com/kimpra2989/leet-code/tree/master/2245-destroying-asteroids) |
 | [2636-maximum-subsequence-score](https://github.com/kimpra2989/leet-code/tree/master/2636-maximum-subsequence-score) |
 ## Stack
