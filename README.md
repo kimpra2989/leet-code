@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/kimpra2989/leet-code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1503-reducing-dishes](https://github.com/kimpra2989/leet-code/tree/master/1503-reducing-dishes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kimpra2989/leet-code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kimpra2989/leet-code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kimpra2989/leet-code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/kimpra2989/leet-code/tree/master/1612-avoid-flood-in-the-city) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kimpra2989/leet-code/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/kimpra2989/leet-code/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/kimpra2989/leet-code/tree/master/0768-partition-labels) |
 | [1503-reducing-dishes](https://github.com/kimpra2989/leet-code/tree/master/1503-reducing-dishes) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kimpra2989/leet-code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/kimpra2989/leet-code/tree/master/1612-avoid-flood-in-the-city) |
 | [2245-destroying-asteroids](https://github.com/kimpra2989/leet-code/tree/master/2245-destroying-asteroids) |
 | [2636-maximum-subsequence-score](https://github.com/kimpra2989/leet-code/tree/master/2636-maximum-subsequence-score) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/kimpra2989/leet-code/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/kimpra2989/leet-code/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/kimpra2989/leet-code/tree/master/1036-rotting-oranges) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kimpra2989/leet-code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kimpra2989/leet-code/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/kimpra2989/leet-code/tree/master/2428-equal-row-and-column-pairs) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kimpra2989/leet-code/tree/master/2588-maximum-number-of-points-from-grid-queries) |
