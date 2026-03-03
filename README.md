@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/kimpra2989/leet-code/tree/master/1397-search-suggestions-system) |
 | [1512-design-underground-system](https://github.com/kimpra2989/leet-code/tree/master/1512-design-underground-system) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kimpra2989/leet-code/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/kimpra2989/leet-code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kimpra2989/leet-code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kimpra2989/leet-code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kimpra2989/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/kimpra2989/leet-code/tree/master/0735-asteroid-collision) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/kimpra2989/leet-code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/kimpra2989/leet-code/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kimpra2989/leet-code/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/kimpra2989/leet-code/tree/master/2197-decode-the-slanted-ciphertext) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kimpra2989/leet-code/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/kimpra2989/leet-code/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/kimpra2989/leet-code/tree/master/0326-power-of-three) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/kimpra2989/leet-code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Tree
 |  |
 | ------- |
