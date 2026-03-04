@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/kimpra2989/leet-code/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kimpra2989/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kimpra2989/leet-code/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/kimpra2989/leet-code/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kimpra2989/leet-code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/kimpra2989/leet-code/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/kimpra2989/leet-code/tree/master/0794-swim-in-rising-water) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/kimpra2989/leet-code/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kimpra2989/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kimpra2989/leet-code/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/kimpra2989/leet-code/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/kimpra2989/leet-code/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/kimpra2989/leet-code/tree/master/0794-swim-in-rising-water) |
 | [0871-keys-and-rooms](https://github.com/kimpra2989/leet-code/tree/master/0871-keys-and-rooms) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/kimpra2989/leet-code/tree/master/0207-course-schedule) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kimpra2989/leet-code/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Enumeration
 |  |
@@ -545,4 +548,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/kimpra2989/leet-code/tree/master/2429-design-a-food-rating-system) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/kimpra2989/leet-code/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
