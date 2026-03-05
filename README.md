@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kimpra2989/leet-code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kimpra2989/leet-code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kimpra2989/leet-code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kimpra2989/leet-code/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kimpra2989/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/kimpra2989/leet-code/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kimpra2989/leet-code/tree/master/2021-remove-all-occurrences-of-a-substring) |
