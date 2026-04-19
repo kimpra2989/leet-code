@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/kimpra2989/leet-code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/kimpra2989/leet-code/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kimpra2989/leet-code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/kimpra2989/leet-code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/kimpra2989/leet-code/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/kimpra2989/leet-code/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kimpra2989/leet-code/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/kimpra2989/leet-code/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/kimpra2989/leet-code/tree/master/0768-partition-labels) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kimpra2989/leet-code/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/kimpra2989/leet-code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1894-merge-strings-alternately](https://github.com/kimpra2989/leet-code/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kimpra2989/leet-code/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kimpra2989/leet-code/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/kimpra2989/leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/kimpra2989/leet-code/tree/master/1397-search-suggestions-system) |
 | [1612-avoid-flood-in-the-city](https://github.com/kimpra2989/leet-code/tree/master/1612-avoid-flood-in-the-city) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/kimpra2989/leet-code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kimpra2989/leet-code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kimpra2989/leet-code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Trie
